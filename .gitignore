@@ -1,0 +1,4 @@
+# Never commit source books or other copyrighted reference material
+*.pdf
+*.epub
+.DS_Store

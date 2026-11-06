@@ -1,0 +1,17 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "Martin Fowler's refactoring catalog (1st ed.) as language-agnostic skills: 72 refactorings with step-by-step mechanics, a refactoring workflow skill, and a code-smell router.",
+  "author": {
+    "name": "wolfy"
+  },
+  "homepage": "https://github.com/shitwolfymakes/refactoring-skills",
+  "repository": "https://github.com/shitwolfymakes/refactoring-skills",
+  "license": "MIT",
+  "keywords": [
+    "refactoring",
+    "code-smells",
+    "clean-code",
+    "fowler"
+  ]
+}

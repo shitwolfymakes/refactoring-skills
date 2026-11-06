@@ -1,0 +1,14 @@
+{
+  "name": "wolfy-skills",
+  "owner": {
+    "name": "wolfy"
+  },
+  "description": "wolfy's Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "refactoring",
+      "source": "./",
+      "description": "Fowler's refactoring catalog as language-agnostic skills, plus code-smell routing."
+    }
+  ]
+}
